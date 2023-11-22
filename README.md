@@ -1,9 +1,9 @@
 # 기계 번역과 이미지 생성 멀티모달을 활용한 모델서빙 
 
 ## 웹 실행 화면
-<p align=“center”>
+
 https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/ee6448ae-7eac-4b7a-b2c0-980efd52508a
-</p>
+
 
 # vue-project
 
