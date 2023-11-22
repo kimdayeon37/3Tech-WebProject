@@ -102,7 +102,7 @@ const imageUrls = [
       'src/assets/data31/scarecrow1.png',
       'src/assets/data32/volcano1.png',
     ]
-const listEl = computed(() => myListRef .value ? myListRef .value.$el : null);
+    const listEl = computed(() => (myListRef.value as any)?. $el || null);
 
 const activateDialog = (index: number) => {
   if (index === 1) {
