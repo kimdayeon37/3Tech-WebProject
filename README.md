@@ -2,8 +2,7 @@
 
 ## 웹 실행 화면
 <p align=“center”>
-    <img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/fc7f03f0-966e-4f9d-a0cb-9e1ead427098.gif" width="1000">  
-     <img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/83719d4a-0594-46a4-bead-1398bf8b7567.gif" width="1000">  
+https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/ee6448ae-7eac-4b7a-b2c0-980efd52508a
 </p>
 
 # vue-project
