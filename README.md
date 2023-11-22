@@ -2,10 +2,8 @@
 
 ## 웹 실행 화면
 <p align=“center”>
-  ![ezgif com-resize](https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/2f5b7a26-e86f-4f75-b318-db7bd228b1f1)
-  <img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/2f5b7a26-e86f-4f75-b318-db7bd228b1f1.gif" width="1000">  
+  <img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/83719d4a-0594-46a4-bead-1398bf8b7567.gif" width="1000">  
 </p>
-
 
 # vue-project
 
