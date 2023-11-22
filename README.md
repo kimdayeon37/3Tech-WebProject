@@ -1,3 +1,13 @@
+# 기계 번역과 이미지 생성 멀티모달을 활용한 모델서빙 
+
+## 웹 실행 화면
+<p align=“center”>
+    ![화면 기록 2023-11-21 오후 3 58 33](https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/e0bf374d-70c7-4ef2-bea1-f4f559bd0683)
+    ![화면 기록 2023-11-21 오후 3 58 33](https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/ef525319-6365-48f2-bddf-5334f7090034)
+  <kbd></kbd>
+</p>
+
+
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
