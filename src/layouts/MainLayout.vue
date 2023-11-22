@@ -5,7 +5,7 @@ const tab = ref("");
 </script>
 <template>
   <q-layout view="lHh lpr lFf">
-    <q-header elevated>
+    <q-header elevated class="bg-black">
       <q-toolbar>
         <q-avatar>
           <img src="https://cdn.quasar.dev/logo-v2/svg/logo-mono-white.svg" />
