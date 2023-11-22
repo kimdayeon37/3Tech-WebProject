@@ -3,6 +3,7 @@
 ## 웹 실행 화면
 
 https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/ee6448ae-7eac-4b7a-b2c0-980efd52508a
+https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/ec6835dd-33ac-4b92-bc7d-e839b0489bfb
 
 
 # vue-project
