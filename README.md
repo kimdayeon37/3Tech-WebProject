@@ -2,7 +2,7 @@
 
 ## 웹 실행 화면
 <p align=“center”>
-  <img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/e0bf374d-70c7-4ef2-bea1-f4f559bd0683.gif">  
+  <img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/e0bf374d-70c7-4ef2-bea1-f4f559bd0683.gif" width="1000">  
 </p>
 
 
