@@ -42,7 +42,7 @@
 
         <br />
         <q-btn color="black" class="full-width" label="Prompt Input" />
-        <q-input class="self-center full-width no-outline" outlined v-model="promt" label="내용 입력 *" lazy-rules
+        <q-input class="self-center full-width no-outline" outlined v-model="promt" label="내용 입력 * ex) 아름다운 하늘" lazy-rules
           />
         <q-btn label="Submit" type="submit" color="black" />
       </q-list>
