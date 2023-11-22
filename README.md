@@ -11,6 +11,8 @@
 - <b> 해결 방안 및 개발 방향성 </b>
 
   text-to-image 모델에 감성어 처리가 된 기계번역을 배치하여 예술성을 높일 수 있는 모델로 배포
+
+<br />
   
 
 ## ⚡ 기술 스택
@@ -18,6 +20,7 @@
 <img src="https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
 
+<br />
 
 ## Web 실행 화면
 
