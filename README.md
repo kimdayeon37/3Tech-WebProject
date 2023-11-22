@@ -2,7 +2,8 @@
 
 ## 웹 실행 화면
 <p align=“center”>
-  <img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/e0bf374d-70c7-4ef2-bea1-f4f559bd0683.gif" width="1000">  
+  ![ezgif com-resize](https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/2f5b7a26-e86f-4f75-b318-db7bd228b1f1)
+  <img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/2f5b7a26-e86f-4f75-b318-db7bd228b1f1.gif" width="1000">  
 </p>
 
 
