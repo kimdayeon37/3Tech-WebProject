@@ -2,8 +2,7 @@
 
 ## 웹 실행 화면
 <p align=“center”>
-  <kbd><img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/e0bf374d-70c7-4ef2-bea1-f4f559bd0683.gif" width="250"></kbd>
-  <kbd><img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/ef525319-6365-48f2-bddf-5334f7090034.gif" width="250"></kbd>
+  <img src="https://github.com/kimdayeon37/3tech-WebProject/assets/93921784/e0bf374d-70c7-4ef2-bea1-f4f559bd0683.gif" width="250">  
 </p>
 
 
